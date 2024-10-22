@@ -22,8 +22,8 @@
         <div class="header__logo-container">
           <div class="header__logo-img-cont">
             <img
-              src="C:\Users\user\Downloads\168b0439-ed08-42ba-b3e9-faadd4153ef2.jfif"
-              alt="C:\Users\user\Downloads\168b0439-ed08-42ba-b3e9-faadd4153ef2.jfif"
+              src="C:\Users\user\Desktop\Jv Files\168b0439-ed08-42ba-b3e9-faadd4153ef2.jfif"
+              alt="C:\Users\user\Desktop\Jv Files\168b0439-ed08-42ba-b3e9-faadd4153ef2.jfif"
               class="header__logo-img"
             />
           </div>
@@ -75,7 +75,7 @@
     </header>
     <section class="home-hero">
       <div class="home-hero__content">
-        <h1 class="heading-primary">Hey, My name is Jaidene Fadrigalan</h1>
+        <h1 class="heading-primary">My name is Jaidene Fadrigalan</h1>
         <div class="home-hero__info">
           <p class="text-primary">
             IT Student
@@ -143,8 +143,7 @@
       <div class="main-container">
         <h2 class="heading heading-sec heading-sec__mb-med">
           <span class="heading-sec__main">About Me</span>
-          <span class="heading-sec__sub">
-            I'm an aspiring IT student from Laguna State Polytechnic University. Education is merely to acquire facts, but to train the mind to think.
+          <span class="heading-sec__sub">I'm a College Student in Laguna State Polytechnic University, a Bachelor of Science in Information Technology taking a major in the Service Management Program that has improved in communication skills, providing good service to customers and knowledge to build strong relationships with clients. and also, give them positive experiences that will leave an impression.
           </span>
         </h2>
         <div class="about__content">
@@ -293,17 +292,16 @@
           <div class="main-footer__row main-footer__row-2">
             <h4 class="heading heading-sm text-lt">Jaidene Fadrigalan</h4>
             <p class="main-footer__short-desc">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
-              tempora explicabo quae quod deserunt
+              I'm an inspiring student from Lagna State Polytechnic University. Education is merely to acquire facts, but to train the minds to think.
             </p>
           </div>
         </div>
 
-        <!-- If you give me some credit or shoutout here by linking to my website, then it will be a big thing for me and will help me a lot :) -->
+        <!-- If you give me some credit or shoutout here by linking to my website, then it will be a big thing for me and will help me a lot 🙂 -->
         <div class="main-footer__lower">
-          &copy; Copyright 2021. Made by
+          &copy; Copyright 2024. Made by
           <a rel="noreferrer" target="_blank" href="https://rammaheshwari.com"
-            >Ram Maheshwari</a
+            >Jaidene Fadrigalan</a
           >
         </div>
       </div>
